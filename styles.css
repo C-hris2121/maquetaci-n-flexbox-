@@ -1,47 +1,58 @@
 .caja1 {
     background-color: greenyellow;
-    height: 50px;
+    height: 300px;
 }
 .cajita1 {
     background-color: orangered;
+    height: 150px;
 }
 
 .caja2{
     background-color: purple;
+    height: 300px;
 }
 .cajita2 {
     background-color: blue;
+    height: 150px;
 }
 
 .caja3 {
     background-color: yellow;
-     
+    height: 300px;
 }
 .cajita3{
     background-color: fuchsia;
+    height: 150px;
 }
 
 .caja4{
     background-color: aquamarine;
+    height: 300px;
 }
 .cajita4{
     background-color: #00FFFB;
+    height: 150px;
 }
 
 .caja5{
     background-color: #FF0023;
+    height: 300px;
 }
 .cajita5{
     background-color: beige;
+    height: 150px;
 }
 
 .caja6{
     background-color: #00B9FF;
+    height: 300px;
 }
 .cajita6{
     background-color: coral;
+    height: 150px;
 }
 
 .caja7{
     background-color: brown;
+    height: 300px;
 }
